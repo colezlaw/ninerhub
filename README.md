@@ -1,9 +1,11 @@
 ## NinerHub
 
-Rather than a real working web application with vulnerabilities, this is more
-of a collection of broken sites with an index guiding you to each area.
+Hopefully this will work like a real broken webapp.
 
 ## Directory Structure:
 
-    /ninerhub   # Webapp directory
+    /htdocs   # Webapp directory
+    /conf     # Configuration for apache, etc. (ignored by git)
+
+
 
